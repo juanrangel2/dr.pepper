@@ -1,0 +1,13 @@
+img {
+    height: 200px;
+    width: 375px;
+}
+.logo {
+    justify-content: center;
+    align-self: center;
+
+}
+body {
+    background-color: #711f25;
+    color: rgb(255, 255, 255);
+  }
