@@ -1,13 +1,61 @@
-img {
-    height: 200px;
-    width: 375px;
-}
-.logo {
-    justify-content: center;
-    align-self: center;
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 
-}
+
 body {
     background-color: #711f25;
     color: rgb(255, 255, 255);
+    font-size: 17px;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
   }
+
+
+  .age{
+    margin-left: 100px;
+ height: 30px;
+ border-radius: 10px;
+ text-align: center;
+
+}
+.food{
+  margin-left: 100px;
+  height: 30px;
+  border-radius: 10px;
+  text-align: center;
+
+}
+.q1{
+  text-align: center;
+}
+.q2{
+  text-align: center;
+}
+.ori  {
+  margin-left: 125px;
+}
+.straw  {
+  margin-left: 125px;
+}
+.diet  {
+  margin-left: 125px;
+}
+.cream  {
+  margin-left: 125px;
+}
+.sub { 
+  width: 150px;
+  height: 30px;
+  margin-left: 115px;
+  border-radius: 10px;
+
+}
+h1{
+  text-align: center;
+  padding: 10px;
+}
+
+.flav{
+  width:100%;
+}
